@@ -25,5 +25,5 @@ First we ask a question with either the 'puts' or 'print' methods followed by a 
 We get information from a user with the 'gets.chomp method'
 
 1. Name and describe two common string methods.
-.length method returns the number of characters in a string including spaces
-.gsub method has 2 arguments. When used the method returns the original string with every instance of the first argument substituted with the second argument
+ - .length method returns the number of characters in a string including spaces
+ - .gsub method has 2 arguments. When used the method returns the original string with every instance of the first argument substituted with the second argument
